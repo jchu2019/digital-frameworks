@@ -25,6 +25,6 @@ From the outside it may seem like women play a prominent role in the ballet worl
 * Did the piece use some creative elements to good effect? 1
 
 ## Alcoholism Among Young Adults
-Alcoholism has long been an issue in the U.S. but has the rate of alcoholism changed in the last few years? There's been a lot of focus on the opioid crisis and and other drug addictions, and alcoholism has, in some ways, taken a back seat in terms of media attention. With the recent increase in popularity of health trends and heand 
+Alcoholism has long been an issue in the U.S. but has the rate of alcoholism changed over the last decade? There has been a lot of focus on the opioid epidemic and and other drug addictions, making it seem like alcoholism has, in some ways, taken a back seat when it comes to media attention. With the recent increase in popularity of health trends and sober parties among young adults, has the prevalence of alcoholism gone down? Or has alcoholism become so normalized among young adults due to things like binge-drinking culture that it is now underdiagnosed? 
 
 [USA Today Article](https://www.usatoday.com/story/news/health/2019/06/13/opioid-overdoses-alcohol-deaths-suicide-millennials-cirrhosis-pancreatitis-addiction-treatment/1423732001/)
