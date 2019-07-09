@@ -14,8 +14,8 @@ I will collect the data by looking at each dispensary's Yelp rating and informat
 
 Name | Location | Owner's Race | Public | Stars | Raters | 
 ---- | ----- | ---- | -------- | ----------- | --------------
-National Holistic Healing Center | Dupont Circle | POC | yes | 5 | 9 |
-tk | tk | tk | tk | tk | tk | tk
-tk | tk | tk | tk | tk | tk | tk
-tk | tk | tk | tk | tk | tk | tk
-tk | tk | tk | tk | tk | tk | tk
+National Holistic Healing Center | Dupont Circle | POC | no | 5 | 9 |
+Metropolitan Wellness Center | SE DC | white | yes | 3 | 15 |
+MetroXMD: Medical Marijuana Doctors DC | NE DC | n/a | no | n/a | n/a |
+Capital City Care | NoMa | n/a | no | 5 | 7 |
+Herbal Alternatives | Downtown | n/a | no | n/a | n/a |
